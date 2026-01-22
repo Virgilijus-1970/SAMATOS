@@ -1,2 +1,0 @@
-# SAMATOS
-Ikainiai, instrukcija 
